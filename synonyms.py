@@ -1,9 +1,3 @@
-# import pandas as pd
-# import json
-
-# excel_file_path = r"C:\Users\arturo\Desktop\Spinner_gpt.xlsx"
-# pd.read_excel(excel_file_path, sheet_name=None)
-
 from nltk.corpus import wordnet
 
 def find_synonyms(word):
